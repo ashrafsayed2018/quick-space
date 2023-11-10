@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://alhamzaoui.com/sitemap.xml
+Sitemap: https://alhamzaoui.com/sitemap.rss
+
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://alhamzaoui.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
